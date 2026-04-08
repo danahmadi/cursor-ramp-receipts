@@ -1,0 +1,22 @@
+# Environment
+.env
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Downloaded receipts
+receipts/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Debug artifacts
+*.png
+
+pge_bills/
